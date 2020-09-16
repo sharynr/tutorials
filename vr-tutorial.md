@@ -3,7 +3,7 @@
 Follow these steps to create a visual recognition model in Watson Studio. For this tutorial, you can use the data files in this [github repository](https://github.com/sharynr/tutorial-files/tree/master/vr-model).
 
 You may want to watch this video first to see how to create and test the model.
-<a href="http://www.youtube.com/watch?v=KIw_iac56Hc" target="_blank"><img src="images/vr-tutorial.jpg"></a>
+<a href="https://video.ibm.com/channel/23952663/video/ws-vr-create-model" target="_blank"><img src="images/vr-tutorial.jpg"></a>
 
 Find more videos in the [Watson Studio documentation](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/videos.html?audience=wdp#vizrec).
 
