@@ -3,7 +3,7 @@
 Follow these steps to create a catalog, and manage assets in the catalog. You can use your own data files, or download the sample data files from this [github repository](https://github.com/sharynr/tutorial-files).
 
 You may want to watch this video first to see how to create a catalog and find assets in a catalog.
-<a href="http://www.youtube.com/watch?v=EdceqGUuEQM" target="_blank"><img src="images/wkc-tutorial.jpg"></a>
+<a href="https://video.ibm.com/channel/23952663/video/wkc-create-catalog" target="_blank"><img src="images/wkc-tutorial.jpg"></a>
 
 Find other videos in the [Watson Knowledge Catalog documentation](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/videos.html?audience=wdp#wkc).
 
