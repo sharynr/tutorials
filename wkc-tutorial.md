@@ -74,14 +74,14 @@ Find other videos in the [Watson Knowledge Catalog documentation](https://datapl
 
 ## Add assets from a catalog to a project
 
-### Follow these steps to add data assets from a project to a catalog.
+### Follow these steps to add data assets from a catalog to a project.
 
 1. From your project, click the **Find and Add Data** icon.
 1. Click the **Catalog** tab, and choose a catalog name.
 1. Select the assets you want, and click **Add to Project**.
-1. Review your selection, and click **Add**. If the assets require connections, the connection assets are also listed to be added to the project, including connections to IBM Cloud Object Storage for uploaded files.
+1. Review your selection, and click **Add**. If the assets require connections, the connection assets are also listed here and will be added to the project, including connections to IBM Cloud Object Storage for uploaded files.
 
-### Follow theset steps to add assets to a project from the catalog.
+### Follow these steps to add assets to a project from the catalog.
 
 1. From the catalog **Browse** page, search for the assets you want to add and select them.
 1. Click **Add to Project**. If any of the assets require a connection, those connections are listed and will be added to the project as connection assets, including connections to IBM Cloud Object Storage for uploaded files. If you don’t want to add a connection, you can remove it. All assets that require the removed connection are removed from the list of assets to add.
