@@ -1,6 +1,6 @@
 function ToggleSections() {
     var element = document.getElementById("tutorial_tips");
-    var button_text = document.getElementById("expand-button");
+    var button_text = document.getElementById("expand-button2");
   
     console.log("does it contain: ", button_text.innerHTML);
   
