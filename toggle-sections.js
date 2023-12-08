@@ -1,6 +1,6 @@
 function ToggleSections() {
-    var element = document.getElementById("tutorial_tips");
-    var button_text = document.getElementById("expand-button2");
+    var element = document.getElementById("li-tutorial_tips");
+    var button_text = document.getElementById("expand-button");
   
     console.log("does it contain: ", button_text.innerHTML);
   
@@ -13,12 +13,11 @@ function ToggleSections() {
        each = sections[i];
        if (each.classList.contains("bx--accordion__item--active")) {
          each.classList.remove("bx--accordion__item--active");
-         console.log("Initially expanded: ", sections);
          button_text.innerHTML = "Expand all sections";
          } else {
          each.classList.add("bx--accordion__item--active");
-         console.log("Not initially expanded: ", sections);
          button_text.innerHTML = "Collapse all sections";
        }
     }
+    console.log("Updated sections: ", sections);
 }
